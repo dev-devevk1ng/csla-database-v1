@@ -6,18 +6,19 @@ Database project for CSTV application.
 
 ### Schemas
 - Player
-- Tournament (future)
 - Team (future)
+- Tournament (future)
 
-- ## 🧱 Main Tables
+
+- ## Main Tables
 - dbo.Country
 - Player.Player
 - Player.Profile
 - Player.NativeName
-- Player.AlternateID
-- Player.Roles
-- Player.PlayerRoles
-- Player.Country
+- Player.AlternateID (future)
+- Player.Roles (future)
+- Player.PlayerRoles (future)
+- Player.Country (future)
 - Player.Pictures (future)
 - Tournament.Tournament (future)
 
